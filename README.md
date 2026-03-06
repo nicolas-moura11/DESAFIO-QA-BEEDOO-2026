@@ -1,0 +1,2 @@
+# DESAFIO-QA-BEEDOO-2026
+Teste técnico
